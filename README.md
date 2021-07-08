@@ -9,9 +9,6 @@ The analysis was performed using pivot tables for the first deliverable - Theatr
 
 On the second deliverable which was outcome based on goals, different ranges were set to show result on possible outcomes of the financial goals. Another line graph was created to reveal percentages on the outcome on the different goal ranges.
 
-#### Challenges
-I had problems trying to use the *countifs* function to visualize the expected graph. But later understanding the instructions, i was able to restructre it properly to show true outcome based on the given goals. 
-
 ### Results
 - Conclusions drawn from theatre outcomes are (i) for the year it was highly successful in the month of May (ii) no shows were canceled in october
 - Massive failure to success of goals from range 45000 to 49999, the goal toward such high range is unsuccessful to achieve
