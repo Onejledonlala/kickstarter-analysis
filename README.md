@@ -15,9 +15,12 @@ On the second deliverable which was outcome based on goals, different ranges wer
 <img width="324" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/78067427/126915566-b8195656-7159-4f3f-b5cf-b86ec64fbe0b.png">
 
 ### Results
+From this analysis, certain relevant informations below gives more light to its understanding 
 - Conclusions drawn from theatre outcomes are: 
   - The year it was highly successful in the month of May
   - No shows were canceled in october
 - Massive failure to success of goals from range 45000 to 49999, the goal toward such high range is unsuccessful to achieve
 - Limitations could be lack of information i.e. weather conditions or pandemic, in anticipation of data
 - Charts like the *Pie* or *Spider & Radar* can show best interpretation of percentage readings in a glance
+
+This is the link to the [Kickstarter Challange](https://github.com/Onejledonlala/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true) file
