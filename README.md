@@ -12,7 +12,7 @@ The analysis was performed using pivot tables for the first deliverable - Theatr
 
 On the second deliverable which was outcome based on goals, different ranges were set to show result on possible outcomes of the financial goals. Another line graph was created to reveal percentages on the outcome on the different goal ranges.
 
-<img width="324" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/78067427/126915566-b8195656-7159-4f3f-b5cf-b86ec64fbe0b.png">
+<img width="324" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/78067427/126915993-cc1a1fd0-c3a6-4220-bfa1-735bef34498a.png">
 
 ### Results
 From this analysis, certain relevant informations below gives more light to its understanding 
