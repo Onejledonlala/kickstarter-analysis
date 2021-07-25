@@ -8,11 +8,11 @@ The essences of the analysis is to show the different campaigns fared in relatio
 #### Analysis
 The analysis was performed using pivot tables for the first deliverable - Theatre outcome by launch date, setting parameters on outcomes filtering through the theater category and its years. A line graph was constructed to show the relationship between possible outcomes (successful, failed, and canceled). 
 
-<img width="278" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/78067427/126915558-d00e5005-6744-4aec-9260-b441a7eeb779.png">
+<img width="278" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/78067427/126916049-cf5d1d72-ba20-49af-9a2d-3dc9f90cb30b.png">
 
 On the second deliverable which was outcome based on goals, different ranges were set to show result on possible outcomes of the financial goals. Another line graph was created to reveal percentages on the outcome on the different goal ranges.
 
-<img width="324" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/78067427/126915993-cc1a1fd0-c3a6-4220-bfa1-735bef34498a.png">
+<img width="324" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/78067427/126916022-e2c1e821-5557-4746-acac-674a88cee5ff.png">
 
 ### Results
 From this analysis, certain relevant informations below gives more light to its understanding 
