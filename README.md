@@ -6,7 +6,7 @@ The essences of the analysis is to show the different campaigns fared in relatio
 
 ### Analysis and Challenges
 #### Analysis
-The analysis was performed using pivot tables for the first deliverable - Theatre outcome by launch date, setting parameters on outcomes filtering through the theater category and the its years. A line graph was constructed to show the relationship between possible outcomes (successful, failed, and canceled). 
+The analysis was performed using pivot tables for the first deliverable - Theatre outcome by launch date, setting parameters on outcomes filtering through the theater category and its years. A line graph was constructed to show the relationship between possible outcomes (successful, failed, and canceled). 
 
 <img width="278" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/78067427/126915558-d00e5005-6744-4aec-9260-b441a7eeb779.png">
 
