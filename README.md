@@ -23,4 +23,4 @@ From this analysis, certain relevant informations below gives more light to its 
 - Limitations could be lack of information i.e. weather conditions or pandemic, in anticipation of data
 - Charts like the *Pie* or *Spider & Radar* can show best interpretation of percentage readings in a glance
 
-This is the link to the [Kickstarter Challange](https://github.com/Onejledonlala/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true) file
+This is the link to the [Kickstarter Challange](https://github.com/Onejledonlala/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx?raw=true) file.
